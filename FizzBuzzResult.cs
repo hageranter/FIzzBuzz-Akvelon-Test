@@ -1,0 +1,1 @@
+public record FizzBuzzResult(string Output, int Count);
